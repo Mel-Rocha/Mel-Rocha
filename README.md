@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 ## Olá, mundo! :earth_americas: 
  :heart_eyes: Sou apaixonada por resolver problemas utilizando a programação.
- Sou estudante Front-end :muscle:
+ Sou estudante Back-end :muscle:
 
  
- <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaScript
- <br/> :dart: Posso te ajudar com o desenvolvimento do seu site
- <br/> :bulb: &nbsp; Minha stack: JavaScript, HTML, CSS
+ <br/> :heart: &nbsp; Buscando colaborar com projetos em Python utilizando suas principais bibliotecas
+ <br/> :dart: Posso te ajudar com o desenvolvimento do seu site 
+ <br/> :bulb: &nbsp; Minha stack: Python e Django
  <br/> :basketball: Sobre mim: Curto tecnologias, e esportes 
- <br/> :phone:&nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/mel-rocha-1421a21aa/)]
+ <br/> :phone:&nbsp; Entre em contato comigo: https://www.linkedin.com/in/mel-rocha-1421a21aa/
 | 
 [![Gmail Badge](https://img.shields.io/badge/-rochamel73@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rochamel73@gmail.com)](rochamel73@gmail.com)
