@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :rocket:
 
 <!--
 **Mel-Rocha/Mel-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,11 @@ Here are some ideas to get you started:
  <br/> :dart: Posso te ajudar com o desenvolvimento do seu site 
  <br/> :bulb: &nbsp; Minha stack: Python e Django
  <br/> :basketball: Sobre mim: Curto tecnologias, e esportes 
- <br/> :phone:&nbsp; Entre em contato comigo: https://www.linkedin.com/in/mel-rocha-1421a21aa/
-| 
-[![Gmail Badge](https://img.shields.io/badge/-rochamel73@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rochamel73@gmail.com)](rochamel73@gmail.com)
+ <br/> :phone:&nbsp; Entre em contato comigo:
+
+<div> 
+ 
+  <a href = "mailto:rochamel73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/mel-rocha](https://www.linkedin.com/in/mel-rocha-1421a21aa/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/___bttrfly_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
