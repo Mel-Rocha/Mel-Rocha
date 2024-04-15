@@ -1,4 +1,4 @@
-### Hi there :rocket:
+### "Moon Prism Power, Make Up" 🐰
 
 <!--
 **Mel-Rocha/Mel-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,11 +31,12 @@ Here are some ideas to get you started:
  Sou estudante Back-end :muscle:
 
  
- <br/> :heart: &nbsp; Buscando colaborar com projetos em Python utilizando suas principais bibliotecas
- <br/> :dart: Posso te ajudar a desenvolver, implementar e manter API's Restful  
- <br/> :bulb: &nbsp; Minha stack: Python e Django
+ <br/> :heart: &nbsp; Buscando colaborar com projetos em Python
+ <br/> 🚀 utilizando suas bibliotecas de maior relevância para o desenvolvimento web
+ <br/> :dart: Posso te ajudar a desenvolver, implementar e manter API's Restful
+ <br/> 🐍 Minha stack: Python e Django
  <br/> :basketball: Sobre mim: Curto tecnologias, e esportes 
- <br/> :phone:&nbsp; Entre em contato comigo:
+ <br/> :phone:&nbsp; Entre em contato comigo: 
 
 <div> 
  
