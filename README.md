@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
  
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Python utilizando suas principais bibliotecas
- <br/> :dart: Posso te ajudar com o desenvolvimento do seu site 
+ <br/> :dart: Posso te ajudar a desenvolver, implementar e manter API's Restful  
  <br/> :bulb: &nbsp; Minha stack: Python e Django
  <br/> :basketball: Sobre mim: Curto tecnologias, e esportes 
  <br/> :phone:&nbsp; Entre em contato comigo:
