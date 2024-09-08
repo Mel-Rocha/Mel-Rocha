@@ -1,4 +1,4 @@
-### "Moon Prism Power, Make Up" 🐰
+### "Moon Prism Power, Make Up" 🐰🎀✨
 
 <!--
 **Mel-Rocha/Mel-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 -:muscle: ...
 -->
 
-# Mel Rocha
+# Mel Rocha 🩷
 
 ## Olá, mundo! :earth_americas: 
  :heart_eyes: Sou apaixonada por resolver problemas utilizando a programação.
  Sou estudante Back-end :muscle:
+
+<img src="https://i.pinimg.com/originals/0b/70/96/0b7096c75f43f60f15941b3859ab1b7d.gif" alt="Sailor Moon" min-width="400px" max-width="400px" width="400px" align="right">
 
  
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Python
